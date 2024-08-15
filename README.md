@@ -47,7 +47,7 @@ const model = new ChatGoogleGenerativeAI({
 
 1. [Basic chat]()
 2. [Prompt templates]()
-3. [A simple recipe generator]() - The user enters a list of ingridents and the LLM model generates recipes using those ingridents.
+3. [A simple recipe generator]() - The user enters a list of ingridients and the LLM model generates recipes using those ingridients.
 
 ## References
 
